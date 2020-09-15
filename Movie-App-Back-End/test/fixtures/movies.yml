@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title,: MyString
+  description,: MyString
+  director,: MyString
+  release: MyString
+  year,: MyString
+  genre,: MyString
+  favorite: false
+
+two:
+  title,: MyString
+  description,: MyString
+  director,: MyString
+  release: MyString
+  year,: MyString
+  genre,: MyString
+  favorite: false
